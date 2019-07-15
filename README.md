@@ -6,7 +6,7 @@ This application shows the weather information based on the City searched. The w
 
 Take the git clone of the repository, import the cloned repository into spring compatible IDE. Run the application as Spring Boot Application.
 
-### How the application works?
+### Application Userguide
 1. Go to login page 
 2. Register with the application, credentials required for registration username, password and dateofbirth.
 3. After registration enter the login details to access the application.
@@ -21,6 +21,7 @@ Take the git clone of the repository, import the cloned repository into spring c
 ## Information
 1. Database used : H2 Database
 2. URL to view Database table: http://localhost:8080/weather-app/h2-console
+3. To access database use password provided in application.properties
 3. Used JpaRepository from Spring for database creation and mapping.
 4. For delete used post method in html form as html form only supports GET and POST.
 
@@ -32,4 +33,4 @@ Junit test written and can be executed with command prompt using maven command a
 
 ## Authors
 
-* **Rahul Wanare** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Rahul Wanare** 
