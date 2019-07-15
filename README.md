@@ -7,9 +7,9 @@ This application shows the weather information based on the City searched. The w
 
 1. Go to gitrepo
 2. Take the git clone of the repository.
-3. Import the cloned repository into spring compatible IDE. Importing the project will tke time to download the dependencies.
+3. Import the cloned repository into spring compatible IDE. Importing the project will take time to download the dependencies.
 4. Right click on the project and click on run as spring boot application. Weather-application gets started listening on port 8080.
-*Use link http://localhost:8080/weather-app/login to connect to the application. Refer @Application Userguide
+*Use link http://localhost:8080/weather-app/login to connect to the application. Refer @Application Userguide For more details.
 
 ### Steps to run weather-application through cmd prompt
 
@@ -17,7 +17,7 @@ This application shows the weather information based on the City searched. The w
 2. Take the git clone of the repository.
 3. Go to the directory of repository where pom exist, open the command prompt on the directory.
 4. Run command: "mvn spring-boot:run". After execution of this command weather application started listening on port 8080.
-*Use link http://localhost:8080/weather-app/login to connect to the application. Refer @Application Userguide
+*Use link http://localhost:8080/weather-app/login to connect to the application. Refer @Application Userguide For more details.
 
 ### Application Userguide
 1. Go to login page http://localhost:8080/weather-app/login
